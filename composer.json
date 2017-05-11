@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {"app\\": "src/"}
+    },
+
+    "require-dev": {
+        "atoum/atoum": "^3.0"
+    },
+    "require": {
+        "atoum/stubs": "^2.5"
+    }
+}
